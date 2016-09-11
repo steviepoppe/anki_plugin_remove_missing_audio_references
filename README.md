@@ -12,7 +12,7 @@ To automatize the removal process, this plugin removes all audio references, lea
 
 Install by copy-pasting `1328067109` into Anki's desktop program.
 
-* [This plugin's Anki page](https://ankiweb.net/shared/info/1788670778)
+* [This plugin's Anki page](https://ankiweb.net/shared/info/1328067109)
 
 ## Usage
 
